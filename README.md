@@ -1,5 +1,17 @@
-### About me :fire:
+# :rocket: About me :rocket:
+-**Software Engineering** student from Colima, México and next *Full-Stack developer.* :wink:
 
+## 🕹️Languages and Tools🕹️
+- **HTML**🖼️
+- **JS**👨‍💻
+- **CSS**🎨
+- **PHP**🐘
+- **C/C#** 📘📦
+- **.NET**🖥️
+## 🌱 I’m currently learning ...
+- **Java**
+- **React**
+- **Laravel**
 <!--
 **EstebanCortina/EstebanCortina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
