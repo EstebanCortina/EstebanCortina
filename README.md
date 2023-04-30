@@ -10,6 +10,7 @@
 - **.NET**🖥️
 - **NodeJS**🟢
 - **Express**🌐
+- **MySQL**🗄️
 ## 🌱 I’m currently learning ...
 - **Java**
 - **Vue**
