@@ -2,18 +2,22 @@
 -**Software Engineering** student from Colima, México and next *Full-Stack developer.* :wink:
 
 ## 🕹️Languages and Tecnologies🕹️
-- **HTML**🖼️
-- **JS**👨‍💻
-- **CSS**🎨
+- **HTML, CSS & JS**🖼️ 🎨 👨‍💻
 - **PHP**🐘
-- **C/C#** 🅒📦
+- **C/C++ & C#** 🅒📦
 - **.NET**🖥️
 - **NodeJS**🟢
-- **Express**🌐
-- **MySQL**🗄️
+- **Express.js**🌐
+- **MySQL**🐬
+- **MongoDB**🍃
+## 🤖 Embedded systems 🤖
+- **Arduino & ESP32** 🎛️📶
+- **MQTT** 🦟
+- **Alexa** (25%) 🔊
 ## 🌱 I’m currently learning ...
-- **Java**
-- **Vue**
+- **Vue.js**
+- **Next.js**
+- **Alexa Skills**
 <!--
 **EstebanCortina/EstebanCortina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
