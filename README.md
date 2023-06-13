@@ -3,11 +3,12 @@
 
 ## 🕹️Languages and Tecnologies🕹️
 - **HTML, CSS & JS**🖼️ 🎨 👨‍💻
-- **PHP**🐘
-- **C/C++ & C#** 🅒📦
-- **.NET**🖥️
 - **NodeJS**🟢
 - **Express.js**🌐
+- **C/C++ & C#** 🅒📦
+- **PHP**🐘
+- **Codeiniter 4**🔥
+- **.NET**🖥️
 - **MySQL**🐬
 - **MongoDB**🍃
 ## 🤖 Embedded systems 🤖
