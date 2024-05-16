@@ -1,25 +1,42 @@
 # :rocket: About me :rocket:
--**Software Engineering** student from Colima, México and next *Full-Stack developer.* :wink:
-
-## 🕹️Languages and Tecnologies🕹️
-- **HTML, CSS & JS**🖼️ 🎨 👨‍💻
-- **NodeJS**🟢
-- **Express.js**🌐
-- **C/C++ & C#** 🅒📦
-- **PHP**🐘
-- **Codeiniter 4**🔥
-- **.NET**🖥️
+- **Backend Developer** 
+- Software Engineering student from Colima, México and next *Full-Stack developer.* :wink:
+## 🕹️Backend🕹️
+- **JavaScript & TypeScript** 💻
+- **Nodejs**🟢
+- **Expressjs**🌐
+- **Python** 🐍
+- **SAM/Serverless framework** 🏗️
+- **Docker** 🐳
 - **MySQL**🐬
 - **MongoDB**🍃
+- **Redis** 🔄
+
+## Frontend
+- **HTML5, CSS3 & JS**🖼️
+- **Vue3 + Vite** 🖌️
+- **Sass** 🎨
+- **Jquery** 💡
+
+## Devops & Cloud
+- **Linux Bash** 🐧
+- **AWS Lambda // AWS CloudWatch // AWS S3** ☁️
+- **Terraform** 🛠️
+
+## Tools
+- **Git** 🐙
+- **Github/Gitlab** 🚀
+- **Postman** 📬
+
 ## 🤖 Embedded systems 🤖
-- **Arduino & ESP32** 🎛️📶
-- **MQTT** 🦟
-- **Alexa** (25%) 🔊
+- **Arduino & ESP32** 🤖
+- **MQTT** 📡
+
 ## 🌱 I’m currently learning ...
-- **Vue.js**
-- **Next.js**
-- **Alexa Skills**
-- **Flask (python)**
+- **Golang** 🏎️
+- **GIN & GORM** 🍸
+- **Java (Spring boot)** ☕
+
 <!--
 **EstebanCortina/EstebanCortina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
