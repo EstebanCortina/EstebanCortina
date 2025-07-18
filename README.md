@@ -1,6 +1,6 @@
 # :rocket: About me :rocket:
 - **Backend Developer** 
-- Software Engineering student from Colima, México and next *Full-Stack developer.* :wink:
+- Software Engineer from Colima, México.
 ## 🕹️Backend🕹️
 - **JavaScript & TypeScript** 💻
 - **Nodejs**🟢
